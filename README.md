@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack<br>💬 Ask me about MERN<br>⚡ Fun fact is available.
+🌱 I’m currently learning CP<br>💬 Ask me about MERN<br>⚡ Fun fact is I'm dead in social life.
 
 
 ## 🌐 Socials:
