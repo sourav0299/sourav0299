@@ -21,8 +21,10 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=sourav0299&icon=2&color=4)](https://visitcount.itsvg.in)
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sourav0299&icon=2&color=4)](https://visitcount.itsvg.in)
