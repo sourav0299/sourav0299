@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning CP<br>💬 Ask me about MERN<br>⚡ Fun fact is I'm dead in social life.
+🌱 I’m currently learning CP<br>💬 Ask me about MERN<br>🎮 wanna play game visit -> [CLICK HERE](https://limbo0299.vercel.app/) <br>⚡ Fun fact is I'm dead in social life.
 
 
 ## 🌐 Socials:
